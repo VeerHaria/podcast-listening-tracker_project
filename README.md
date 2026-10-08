@@ -1,7 +1,7 @@
 # Podcast Listening Tracker
 
 CE0525 Programming for Scientific Computing (Python), Project P70.
-Student: Haria Veer Paresh, IU2441230463.
+Student: Veer Paresh Haria, IU2441230463.
 
 Desktop app to record podcasts and episodes listened to (date, minutes,
 rating), search them, and see totals, comparisons, consistency, preferences
